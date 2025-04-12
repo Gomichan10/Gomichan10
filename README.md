@@ -11,6 +11,7 @@
 <ul>
   <li><strong>2023 vol.13</strong> 最優秀賞</li>
   <li><strong>2024 vol.20</strong> 最優秀賞</li>
+  <li><strong>2025 vol.2</strong>  最優秀賞</li>
 </ul>
 
 <h3>技育博</h3>
