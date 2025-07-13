@@ -1,10 +1,6 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomichan10&layout=compact&show_icons=true&theme=dark" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gomichan10&theme=onedark&column=6
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h2>🏆 受賞歴</h2>
 
 <h3>技育Camp</h3>
